@@ -22,7 +22,7 @@ if os.path.exists(libdir):
 
 width = 800
 height = 480
-radar_url = "https://beta.meteo.lt/data/radar/radarlarge+36.gif"
+radar_url = "https://beta.meteo.lt/meteo-data/radar/radarlarge+36.gif"
 
 # API info: https://api.meteo.lt
 # observed data for Vilnius
